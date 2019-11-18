@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost"; //padrão - server local
-$database = "curso_estoque"; //nome do banco de dados
+$database = "notas_online"; //nome do banco de dados
 $username = "root"; // padrão - root
 $password = ""; //vazio 
 

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="pt-br">
     <head>
         <title>Menu_Notas</title>
@@ -9,12 +10,11 @@
         <center>
     <div class="card" style="margin-top: 100px; margin-left: 100px">
   <div class="card-header">
-    Featured
+    Notas
   </div>
   <div class="card-body">
-    <h5 class="card-title">Special title treatment</h5>
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">Adicione uma nota à sua agenda!</h5>
+    <a href="adicionar_nota.php" class="btn btn-primary" style="margin-top: 15px">Incluir nota</a>
   </div>
 </div>
         </center>
